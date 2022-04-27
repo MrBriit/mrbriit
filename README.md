@@ -8,7 +8,7 @@
 ## 🚀 About Me
 I am Full Stack Data Scientist.
 
-dgjshkdblakdlsjflsdnabdsfnksfnsamx
+
 
 
 
