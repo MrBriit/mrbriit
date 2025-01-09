@@ -2,11 +2,11 @@
 ![Logo](https://github-readme-stats.vercel.app/api?username=mrbriit&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
 
-# Hi, I'm Dr Briit! 👋
+# Hi, I'm Briit! 👋
 
 
 ## 🚀 About Me
-I am Full Stack Data Scientist.
+I am Data Scientist.
 
 
 
